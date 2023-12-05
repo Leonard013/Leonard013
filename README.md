@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Scappatura</h1>
-<h3 align="center">A passionate Applied Computer Science and Artificial Intelligence student at La Sapienza University.</h3>
+<h3 align="center">I am a passionate Applied Computer Science and Artificial Intelligence student at La Sapienza University.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/TCyNoJBq0bQAAAAd/me-watching-my-past-self-interstellar.gif">
 
 - 🎬 Best film: **Interstellar🕰**
