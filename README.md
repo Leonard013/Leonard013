@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/TCyNoJBq0bQAAAAd/me-watching-my-past-self-interstellar.gif">
 
 - 🎬 Best film: **Interstellar🕰**
-- 🗺 My passions: **Traveling and tennis🎾**
+- 🗺 My passions: **Travelling and tennis🎾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
